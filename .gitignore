@@ -1,0 +1,6 @@
+.DS_Store
+.arduino/
+.pio/
+build/
+out/
+work/
